@@ -12,7 +12,6 @@ A five city has the following productions and attractions:
 
 The travel time is 
 
-
                -----------------------------------        
                        Travel time in (min)
                         ---------------------
